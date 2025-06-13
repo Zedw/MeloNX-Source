@@ -15,6 +15,14 @@
       "category": "games",
       "versions": [
         {
+          "version": "2.0.1",
+          "buildVersion": "2.0.1",
+          "date": "2025-06-13",
+          "localizedDescription": "",
+          "downloadURL": "https://git.743378673.xyz/MeloNX/MeloNX/releases/download/2.0.1/MeloNX.ipa",
+          "size": 61021673
+        },
+        {
           "version": "2.0",
           "buildVersion": "2.0",
           "date": "2025-06-12",
