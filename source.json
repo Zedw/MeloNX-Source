@@ -7,7 +7,7 @@
   "apps": [
     {
       "name": "MeloNX",
-      "bundleIdentifier": "xyz.melonx.melonx",
+      "bundleIdentifier": "com.stossy11.MeloNX",
       "developerName": "MeloNX Team",
       "subtitle": "The most advanced Nintendo Switch emulator for iOS",
       "localizedDescription": "The most advanced Nintendo Switch emulator for iOS. Built on the Ryujinx core, MeloNX delivers unmatched performance, high compatibility and full controller support — bringing your Switch games to life on iPhone and iPad.",
