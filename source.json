@@ -13,7 +13,96 @@
       "localizedDescription": "The most advanced Nintendo Switch emulator for iOS. Built on the Ryujinx core, MeloNX delivers unmatched performance, high compatibility and full controller support — bringing your Switch games to life on iPhone and iPad.",
       "iconURL": "https://raw.githubusercontent.com/Zedw/MeloNX-Source/main/icon.png",
       "category": "games",
-      "versions": []
+      "versions": [
+        {
+          "version": "2.0.1",
+          "buildVersion": "2.0.1",
+          "date": "2025-07-14",
+          "localizedDescription": "Update UpdateAndBindTexturesWithoutTemplate to have the proper UE changes",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/2.0.1",
+          "size": 0
+        },
+        {
+          "version": "2.0",
+          "buildVersion": "2.0",
+          "date": "2025-07-14",
+          "localizedDescription": "App Icon Switcher, Per-App Settings Page, Update Virtual Controller and more",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.8.0",
+          "size": 0
+        },
+        {
+          "version": "1.7.0",
+          "buildVersion": "1.7.0",
+          "date": "2025-07-14",
+          "localizedDescription": "Updated JitStreamer Implementation, Reimplemented Texture Chunks, Reworked Alerts and more",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.7.0",
+          "size": 0
+        },
+        {
+          "version": "1.6.0",
+          "buildVersion": "1.6.0",
+          "date": "2025-07-14",
+          "localizedDescription": "Update version number",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.6.0",
+          "size": 0
+        },
+        {
+          "version": "1.5.0",
+          "buildVersion": "1.5.0",
+          "date": "2025-07-14",
+          "localizedDescription": "Fix dependency",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.5.0",
+          "size": 0
+        },
+        {
+          "version": "1.4.0",
+          "buildVersion": "1.4.0",
+          "date": "2025-07-14",
+          "localizedDescription": "Fix Mii maker",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.4.0",
+          "size": 0
+        },
+        {
+          "version": "1.3.0",
+          "buildVersion": "1.3.0",
+          "date": "2025-07-14",
+          "localizedDescription": "New gitignore",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.3.0",
+          "size": 0
+        },
+        {
+          "version": "1.2.1",
+          "buildVersion": "1.2.1",
+          "date": "2025-07-14",
+          "localizedDescription": "Change version number",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.2.1",
+          "size": 0
+        },
+        {
+          "version": "1.2.0",
+          "buildVersion": "1.2.0",
+          "date": "2025-07-14",
+          "localizedDescription": "Add Entitlement Checker and Memory",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.2.0",
+          "size": 0
+        },
+        {
+          "version": "1.1.0",
+          "buildVersion": "1.1.0",
+          "date": "2025-07-14",
+          "localizedDescription": "Set Version to 1.1.0",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.1.0",
+          "size": 0
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "1.0.0",
+          "date": "2025-07-14",
+          "localizedDescription": "Remove func MainThread and add SDL Window code back",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.0.0",
+          "size": 0
+        }
+      ]
     }
   ]
 }
