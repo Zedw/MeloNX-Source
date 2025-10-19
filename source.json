@@ -101,6 +101,14 @@
           "localizedDescription": "Remove func MainThread and add SDL Window code back",
           "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/1.0.0",
           "size": 0
+        },
+        {
+          "version": "prerelease",
+          "buildVersion": "prerelease",
+          "date": "2025-10-19",
+          "localizedDescription": "Changelog\nUpdate MoltenVK Backend\nRewrite Vulkan Changes\nFix Games like Assassin's Creed (still some issues but run now) and Paper Mario Thousand Year Door and much more\nLower RAM Usage",
+          "downloadURL": "https://cdn.discordapp.com/attachments/1412931489817034892/1418192065065521245/MeloNX.ipa?ex=68f56f89&is=68f41e09&hm=e8cadcab1ce1ff6080a00f4aeb569749f3889a85b852229aa12589f8893ecbd8&",
+          "size": 55521531
         }
       ]
     }
